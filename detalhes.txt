@@ -7,3 +7,6 @@
     -npm install ngx-toastr --save
 	-npm install ngx-bootstrap --save
     -npm i ngx-mask
+
+-Para criar o SQLLocalDb 
+    -Rodar o comando Update-DataBase no Pachage Manager Console, setando o Default project como o CadastroCliente.Repository
